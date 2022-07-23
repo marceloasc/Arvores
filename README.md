@@ -1,3 +1,3 @@
-# Estrutura de Dados Avançada
+# Arvores
 
-Repositorio para codigos usados na materia de estrutura de dados avançada
+Codificação da estrutura de arvore em dois tipos: generica e AVL
